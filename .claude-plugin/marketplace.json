@@ -1,0 +1,17 @@
+{
+  "name": "launchpath",
+  "owner": {
+    "name": "Doug Foltz"
+  },
+  "metadata": {
+    "description": "LaunchPath skills for church planting networks, coaches, and planters.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "launchpath-skills",
+      "source": "./launchpath-skills",
+      "version": "1.1.0"
+    }
+  ]
+}

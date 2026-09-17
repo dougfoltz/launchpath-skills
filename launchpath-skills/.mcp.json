@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "launchpath": {
+      "type": "http",
+      "url": "https://churchplantingchecklist.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "launchpath-skills",
+  "version": "1.1.0",
+  "description": "Skills for network admins, coaches, and church planters using the LaunchPath (Church Planting Checklist) MCP server. Covers network health dashboards and bottleneck alerts, per-coach oversight of assigned plants, planter roadmap views, weekly planning and task triage, plus the monthly scorecard: key vitals, faithful actions, and network check-in review. Bundles the LaunchPath MCP connector (https://churchplantingchecklist.com/api/mcp); installing it prompts you to sign in.",
+  "author": {
+    "name": "Doug Foltz"
+  },
+  "keywords": [
+    "church-planting",
+    "launchpath",
+    "mcp",
+    "project-management",
+    "ministry",
+    "dashboard"
+  ],
+  "license": "UNLICENSED"
+}
