@@ -10,7 +10,16 @@ the data itself always comes from LaunchPath, scoped by your own account.
 
 ## Install
 
-Add this repo as a plugin marketplace:
+Reference a single skill by name:
+
+```
+dougfoltz/launchpath-skills@network-scorecard-review
+```
+
+Every skill sits at `skills/<name>/SKILL.md`, and the directory name matches the
+skill's `name` in frontmatter, so `@<name>` resolves for all 16.
+
+Or add the whole set as a plugin marketplace:
 
 ```
 /plugin marketplace add dougfoltz/launchpath-skills
